@@ -1913,7 +1913,7 @@
 
 
     #shout .chatBot {
-        color: #5096e6;
+        color: #80e650;
     }
     #shout,
     #shout * {
