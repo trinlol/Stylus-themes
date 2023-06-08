@@ -11,7 +11,7 @@ Install [stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeeba
 ![alt text](https://i.imgur.com/7E8Pg8w.gif)
 
 
-Install the script directly from [userstyles](https://userstyles.world/style/10235/gamesense-pub-deep-sky-blue-rainbow-border).
+Install the theme directly from [userstyles](https://userstyles.world/style/10235/gamesense-pub-deep-sky-blue-rainbow-border).
 
 Editing the style
 
@@ -31,6 +31,8 @@ Change the ChatBot's user color by CTRL+F "#shout .chatBot"
 Might be some other stuff I forgot to mention that you will need to change. CTRL+F is your friend :)
 ```
 
+Credit to [m-fed](https://userstyles.world/style/2855/gamesense-pub-theme) for the base.
+
 ## Updates
 
-Automatic updates will be sent directly to [userstyles](userstyles.world) before being published to github.
+Automatic updates will be sent directly to [userstyles](https://userstyles.world/style/10235/gamesense-pub-deep-sky-blue-rainbow-border) before being published to github.
