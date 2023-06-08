@@ -9,9 +9,9 @@
 ==/UserStyle== */
 @-moz-document domain("gamesense.pub") {
     :root {
-        /* --bg-color: #0D1017;
+        --bg-color: #0D1017;
         --bg-color-2: #0B0E14;
-        --lighter: #0F131A; */
+        --lighter: #0F131A; 
         --accent-color: #5096e6;
         --accent-hover: #5096e6;
         --border-color: #1E232B;
