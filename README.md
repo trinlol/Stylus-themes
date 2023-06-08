@@ -2,7 +2,7 @@
 
 List of Stylus themes I currently use.
 
-## How to use
+## How To Use
 
 Install [stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or any other CSS editor extension for your browser.
 
