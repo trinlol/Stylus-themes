@@ -8,10 +8,9 @@ Install [stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeeba
 
 ## Installing Themes
 ### GameSense Theme
+Install the theme directly from [userstyles](https://userstyles.world/style/10235/gamesense-pub-deep-sky-blue-rainbow-border).
 ![alt text](https://i.imgur.com/7E8Pg8w.gif)
 Site reduced to respect forum privacy.
-
-Install the theme directly from [userstyles](https://userstyles.world/style/10235/gamesense-pub-deep-sky-blue-rainbow-border).
 
 Editing the style
 
