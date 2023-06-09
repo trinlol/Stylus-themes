@@ -275,6 +275,26 @@
         }
     }
 
+    
+    .hljs {
+
+        border-width: 1px;
+        margin: .75em 1em;
+        padding: 0;
+        border-radius: 10px;
+        /* Increase the border radius */
+        overflow: hidden;
+        /* Hide the overflow */
+        background-color: #0D1017;
+    }
+
+    .hlhs pre {
+        overflow: auto;
+        width: 100%;
+        overflow-y: hidden;
+        padding-right: 20px;
+        /* Add extra padding for scrollwheel */
+    }
 
     /* Width and height of the scrollbar */
     ::-webkit-scrollbar {
@@ -951,16 +971,24 @@
         text-decoration: underline
     }
     .pun .codebox {
-        border-style: solid;
-        border-width: 1px;
-        margin: .75em 1em;
-        padding: 0
-    }
+  border-style: solid;
+  border-width: 1px;
+  margin: .75em 1em;
+  padding: 0;
+  border-radius: 10px; /* Increase the border radius */
+  overflow: hidden; /* Hide the overflow */
+}
+
     .pun .quotebox {
-        border-style: solid;
+
         border-width: 1px;
         margin: .75em 1em;
-        padding: 0 .75em
+        padding: 0;
+        border-radius: 10px;
+        /* Increase the border radius */
+        overflow: hidden;
+        /* Hide the overflow */
+        background-color: #0D1017;
     }
     .pun .quotebox cite {
         display: block;
@@ -982,6 +1010,7 @@
         display: block;
         padding: .75em
     }
+    
     .pun .codebox pre.vscroll {
         max-height: 32em;
         overflow: auto;
