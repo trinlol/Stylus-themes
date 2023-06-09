@@ -898,13 +898,15 @@
         width: 18em;
         position: relative;
         overflow: hidden
+background-color: var(--lighter);
     }
     .pun .postleft dl {
         padding: 6px
     }
     .pun .postleft .icon,
     .pun .postleft .usercontacts {
-        margin-top: 6px
+        margin-top: 6px;
+background-color: var(--lighter);
     }
     .pun .postleft .postavatar,
     .pun .postleft .usertitle {
@@ -983,7 +985,7 @@
 
         border-width: 1px;
         margin: .75em 1em;
-        padding: 0;
+        padding: 2;
         border-radius: 10px;
         /* Increase the border radius */
         overflow: hidden;
@@ -1200,16 +1202,16 @@
     .pun .deletemsg,
     .pun .postfootright,
     .pun .postright {
-        background-color: var(--bg-color-2);
+        background-color: var(--lighter);
     }
     .pun .postfootright,
     .pun .postright {
-        border-left-color: var(--bg-color-2);
+        border-left-color: var(--lighter);
     }
     .pun .blockpost label,
     .pun .postfootleft,
     .pun .postleft {
-        background-color: var(--bg-color-2);
+        background-color: var(--lighter);
     }
     .pun .codebox,
     .pun .quotebox {
@@ -1827,6 +1829,8 @@
         }
     }
     @media only screen and (max-width:600px) {
+
+        
         .pun .postfootright,
         .pun .postright {
             border-left-width: 0
@@ -1834,6 +1838,7 @@
         .pun .postfootleft,
         .pun .postleft {
             display: none
+        background-color: var(--lighter);
         }
         .pun .blockpost .postleft {
             width: 100%;
