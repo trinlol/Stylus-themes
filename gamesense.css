@@ -1203,7 +1203,7 @@
     .pun .box {
         border-color: var(--border-color)
     }
-    .pun .blocktable .box {}
+    
 
 
     #brdfooter #modcontrols,
@@ -1270,9 +1270,8 @@
     .pun .postreport a:hover {
         color: #aaa
     }
-    .pun .maintenancelink a:link,
-    .pun .maintenancelink a:visited {
-    }
+  
+
     .pun .maintenancelink a:active,
     .pun .maintenancelink a:hover {
         color: #ff5010
@@ -1305,7 +1304,7 @@
     }
     .pun .usergroup-5 {
         color: #58a2f7!important;
-        font-weight: 700 animation: lights 5s 750ms linear infinite;
+        font-weight: 700;
     }
     .pun a:hover.usergroup-5 {
         color: #f5aea4!important
@@ -1905,7 +1904,7 @@
     }
     #shout .admin {
         color: #b4e61e;
-        font-weight: bold, italic;
+        font-weight: bold italic;
     }
 
 
