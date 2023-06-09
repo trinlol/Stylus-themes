@@ -27,7 +27,8 @@ These will also need updated too:
         --border-color: #1E232B;
         --hover: #131721;
 Change the ChatBot's user color by CTRL+F "#shout .chatBot"
-Might be some other stuff I forgot to mention that you will need to change. CTRL+F is your friend :)
+Might be some other stuff I forgot to mention that you will need to change. 
+Code is quite messy <sorry> :)
 ```
 
 Credit to [m-fed](https://userstyles.world/style/2855/gamesense-pub-theme) for the base.
