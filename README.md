@@ -15,6 +15,7 @@ Site reduced to respect forum privacy.
 Editing the style
 
 ```
+You'll find most of the colors used at the top of the file.
 Change the background color
         --bg-color: #0D1017;
         --bg-color-2: #0B0E14;
