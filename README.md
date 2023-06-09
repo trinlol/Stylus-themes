@@ -15,20 +15,10 @@ Site reduced to respect forum privacy.
 Editing the style
 
 ```
-
-If you don't like blue you can change the following: 
-Change the background color on line 267 | "background-color: #0B0E14;" (there maybe other elemtns using background-color: #0B0E14;" they will need updated too).
-These will also need updated too:
+Change the background color
         --bg-color: #0D1017;
         --bg-color-2: #0B0E14;
-        --lighter: #0F131A; 
-        --accent-color: #5096e6;
-        --accent-hover: #5096e6;
-        --border-color: #1E232B;
-        --hover: #131721;
-Change the ChatBot's user color by CTRL+F "#shout .chatBot"
-Might be some other stuff I forgot to mention that you will need to change. 
-Code is quite messy <sorry> :)
+Code is all over the place <sorry> :)
 ```
 
 Credit to [m-fed](https://userstyles.world/style/2855/gamesense-pub-theme) for the base.
