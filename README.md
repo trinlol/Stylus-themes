@@ -35,4 +35,4 @@ Credit to [m-fed](https://userstyles.world/style/2855/gamesense-pub-theme) for t
 
 ## Updates
 
-Automatic updates will be sent directly to [userstyles](https://userstyles.world/style/10235/gamesense-pub-deep-sky-blue-rainbow-border) before being published to github.
+Automatic updates will be sent directly to [userstyles](https://userstyles.world/user/trinlol) before being published to github.
